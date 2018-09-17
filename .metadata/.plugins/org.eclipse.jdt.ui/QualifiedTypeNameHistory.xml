@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.mongodb.MongoClient"/>
+<fullyQualifiedTypeName name="com.mongodb.client.MongoDatabase"/>
+<fullyQualifiedTypeName name="com.mongodb.client.MongoCollection"/>
+<fullyQualifiedTypeName name="org.bson.Document"/>
+<fullyQualifiedTypeName name="javax.management.Query"/>
+<fullyQualifiedTypeName name="com.mongodb.QueryBuilder"/>
+<fullyQualifiedTypeName name="com.mongodb.connection.QueryResult"/>
+<fullyQualifiedTypeName name="com.mongodb.BasicDBObject"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="dto.Member"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="org.apache.commons.fileupload.disk.DiskFileItemFactory"/>
+<fullyQualifiedTypeName name="org.apache.commons.fileupload.servlet.ServletFileUpload"/>
+<fullyQualifiedTypeName name="org.apache.commons.fileupload.FileItem"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="com.oreilly.servlet.MultipartRequest"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.apache.catalina.User"/>
+<fullyQualifiedTypeName name="dbutil.DBConn"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="dao.UserInfoDao"/>
+<fullyQualifiedTypeName name="com.google.gson.Gson"/>
+<fullyQualifiedTypeName name="dto.Person"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Package"/>
+<fullyQualifiedTypeName name="board.util.Paging"/>
+<fullyQualifiedTypeName name="board.dto.MemberDto"/>
+<fullyQualifiedTypeName name="board.dao.MemberDaoImpl"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="board.dto.PagingDto"/>
+<fullyQualifiedTypeName name="board.service.BoardService"/>
+<fullyQualifiedTypeName name="board.dto.BoardDto"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+</qualifiedTypeNameHistroy>

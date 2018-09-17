@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="2">\r\n<system/>\r\n<external location\="/usr/bin/firefox" name\="Firefox"/>\r\n<external location\="/usr/bin/google-chrome" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:///home/ji/git/JavaSemiProject/WebContent/img/logo.png|*|file\:/home/ji/git/JavaSemiProject/WebContent/img/logo.png|*|http\://localhost\:8089/MongoDbTest/HTML_test/helloMate.html|*|
